@@ -1,0 +1,9 @@
+The following dependency needs to be added:
+
+```xml
+<dependency>
+	<groupId>org.eclipse.hawkbit</groupId
+	<artifactId>hawkbit-mgmt-api</artifactId
+	<version>0.3.0M9</version
+</dependency>
+```
